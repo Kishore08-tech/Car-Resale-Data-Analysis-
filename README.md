@@ -56,14 +56,7 @@ The dataset used in this project contains the following columns:
   - `matplotlib` for data visualization.
 - **Development Environment:** Google Colab.
 
-## How to Run the Code
-1. Clone this repository to your local machine.
-2. Install the required Python libraries if not already installed:
-   ```
-   pip install pandas matplotlib
-   ```
-3. Update the `data` variable with the path to your dataset file (`car_prices.csv`).
-4. Run the script using Python or Jupyter Notebook/Google Colab.
+
 
 ## Insights Gained
 - Identified the most popular car brands and body types.
@@ -75,13 +68,4 @@ The dataset used in this project contains the following columns:
 - Implement machine learning models to predict car resale prices.
 - Automate reporting and visualization using dashboards.
 
-## Project Files
-- **Python Script:** `car_resale_data_visualisation.py`
-- **Dataset:** Ensure the CSV file (`car_prices.csv`) is in the correct location.
-
-## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
-
-## Acknowledgments
-Special thanks to the data provider and the Python community for their excellent libraries.
 
